@@ -1,2 +1,3 @@
-const = 'mercado pago'
-console.log(m)
+const n = 'mercado pago'
+const p = "pagamento"
+console.log(n, p)
