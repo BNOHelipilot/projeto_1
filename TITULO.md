@@ -7,8 +7,11 @@ Sub Título do documento
 __No__ **fim** *dessa* _semana_, ~~Eu~~ `planejo`:
 
 ***Todo em negrito***
+
 **este texto é _extremamente_ importante**
+
 Isto é um texto <sub>subscrito</sub>
+
 Isto é um texto <sup>sobrescrito</sup>
 
 Some basic Git commands are:
